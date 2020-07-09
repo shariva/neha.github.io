@@ -44,7 +44,7 @@ Computer Science (Minor)
 
 ![](https://github.com/Tuniya-Neha/neha.github.io/blob/master/profile%20photo.jpg)
 
-I am 4th year undergraduate student at [College of Engineering Pune](https://www.coep.org.in) pursuing major in the [department of Electronics and Telecommunication Engineering](https://www.coep.org.in/departments/entc) and minor in the [department of Computer Engineering](https://www.coep.org.in/departments/computerit)
+I am 4th year undergraduate student at [College of Engineering Pune](https://www.coep.org.in) pursuing major in the [department of Electronics and Telecommunication Engineering](https://www.coep.org.in/departments/entc) and minor in the [department of Computer Engineering](https://www.coep.org.in/departments/computerit).
 
 My main interests lie in Programming languages, Machine Learning, Artificial Intelligence, Computer Vision, Image Processing, Deep Learning. Please follow this link for my [Projects and Work Experience]. Also see [Courses] for an overview of courses and course projects. Please see [Hackerrank profile] for an overview of various coding problems solved.
 
@@ -55,4 +55,4 @@ I am a part of [Arts and Craft club](https://www.coep.org.in/clubs/arts_and_craf
 ### Contact
 College Email ID - nehapt17.extc@coep.ac.in
 
-Personal Email Id - [tneha49@gmail.com]
+Personal Email Id - tneha49@gmail.com
