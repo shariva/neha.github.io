@@ -35,3 +35,11 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+
+# Neha Tuniya
+College of Engineering Pune
+
+Computer Science (Minor)
+
+I am 4th year undergraduate student at [College of Engineering Pune](coep.org.in) in the [department of Electronics and Telecommunication Engineering](https://www.coep.org.in/departments/entc)
