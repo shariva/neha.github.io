@@ -43,3 +43,11 @@ College of Engineering Pune
 Computer Science (Minor)
 
 I am 4th year undergraduate student at [College of Engineering Pune](https://www.coep.org.in) in the [department of Electronics and Telecommunication Engineering](https://www.coep.org.in/departments/entc)
+
+My main interests lie in Programming languages, Machine Learning, Artificial Intelligence, Computer Vision, Image Processing, Deep Learning. Please follow this link for my [Projects and Work Experience]. Also see [Courses] for an overview of courses and course projects. Please see [Hackerrank profile] for an overview of various coding problems solved.
+
+I was a intern at the [start-up organisation] in Summer 2020 where I had the opportunity to develop a Machine learning model and design Algorithms for heart attack prediction. It mainly involved many different model implementation approches, data preprocessing, different testing and validation of the model 
+
+### Contact
+College Email ID - [nehapt17.extc@coep.ac.in]
+Personal Email Id - [tneha49@gmail.com]
