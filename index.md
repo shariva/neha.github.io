@@ -42,4 +42,4 @@ College of Engineering Pune
 
 Computer Science (Minor)
 
-I am 4th year undergraduate student at [College of Engineering Pune](https://coep.org.in) in the [department of Electronics and Telecommunication Engineering](https://www.coep.org.in/departments/entc)
+I am 4th year undergraduate student at [College of Engineering Pune](https://www.coep.org.in) in the [department of Electronics and Telecommunication Engineering](https://www.coep.org.in/departments/entc)
